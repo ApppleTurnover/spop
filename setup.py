@@ -7,6 +7,7 @@ setup(
     author='AthonD',
     license='MIT',
     install_requires=[
+        'selenium==4.1.2'
     ],
     setup_requires=[
         'pytest-runner==6.0.0'
